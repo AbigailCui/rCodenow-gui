@@ -1,0 +1,199 @@
+[
+  {
+    "id": "rc.rxblocks.eval.discribe",
+    "defaultMessage": "Do Javascript."
+  },
+  {
+    "id": "gui.extension.music.name",
+    "description": "Name for the 'Music' extension",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "gui.extension.music.description",
+    "description": "Description for the 'Music' extension",
+    "defaultMessage": "Play instruments and drums."
+  },
+  {
+    "id": "gui.extension.pen.name",
+    "description": "Name for the 'Pen' extension",
+    "defaultMessage": "Pen"
+  },
+  {
+    "id": "gui.extension.pen.description",
+    "description": "Description for the 'Pen' extension",
+    "defaultMessage": "Draw with your sprites."
+  },
+  {
+    "id": "rc.rxblocks.anitext.name",
+    "defaultMessage": "Animated Text"
+  },
+  {
+    "id": "rc.rxblocks.anitext.describe",
+    "defaultMessage": "Bring words to life."
+  },
+  {
+    "id": "gui.extension.videosensing.name",
+    "description": "Name for the 'Video Sensing' extension",
+    "defaultMessage": "Video Sensing"
+  },
+  {
+    "id": "gui.extension.videosensing.description",
+    "description": "Description for the 'Video Sensing' extension",
+    "defaultMessage": "Sense motion with the camera."
+  },
+  {
+    "id": "rc.rxblocks.list.name",
+    "defaultMessage": "Unleash the shackles"
+  },
+  {
+    "id": "rc.rxblocks.list.describe",
+    "defaultMessage": "Remove restrictions on lists and variables."
+  },
+  {
+    "id": "rc.rxblocks.rxfs.describe",
+    "defaultMessage": "Blocks for interacting with a virtual in-memory filesystem."
+  },
+  {
+    "id": "rc.rxblocks.iframe.name",
+    "defaultMessage": "Iframe"
+  },
+  {
+    "id": "rc.rxblocks.iframe.describe",
+    "defaultMessage": "Blocks to place and move aroundframes that contain HTML content orwebsites."
+  },
+  {
+    "id": "rc.rxblocks.message.name",
+    "defaultMessage": "Message"
+  },
+  {
+    "id": "rc.rxblocks.message.describe",
+    "defaultMessage": "For logging and variable utilization."
+  },
+  {
+    "id": "rc.rxblocks.runtime.name",
+    "defaultMessage": "Import/Setting"
+  },
+  {
+    "id": "rc.rxblocks.runtime.describe",
+    "defaultMessage": "Some blocks for importing and setting with runtime."
+  },
+  {
+    "id": "rc.rxblocks.lazya.name",
+    "defaultMessage": "lazyAudio"
+  },
+  {
+    "id": "rc.rxblocks.lazya.describe",
+    "defaultMessage": "Play music from URLs."
+  },
+  {
+    "id": "rc.rxblocks.tool.name",
+    "defaultMessage": "Tool"
+  },
+  {
+    "id": "rc.rxblocks.tool.describe",
+    "defaultMessage": "Some blocks for debug."
+  },
+  {
+    "id": "be.Operation.Operation",
+    "defaultMessage": "Operation"
+  },
+  {
+    "id": "be.Operation.describe",
+    "defaultMessage": "Advanced operations, including string, computation, bitwise operations, two-dimensional graphic operations, etc."
+  },
+  {
+    "id": "gui.extension.text2speech.name",
+    "description": "Name for the Text to Speech extension",
+    "defaultMessage": "Text to Speech"
+  },
+  {
+    "id": "gui.extension.text2speech.description",
+    "description": "Description for the Text to speech extension",
+    "defaultMessage": "Make your projects talk."
+  },
+  {
+    "id": "gui.extension.translate.name",
+    "description": "Name for the Translate extension",
+    "defaultMessage": "Translate"
+  },
+  {
+    "id": "gui.extension.translate.description",
+    "description": "Description for the Translate extension",
+    "defaultMessage": "Translate text into many languages."
+  },
+  {
+    "id": "gui.extension.makeymakey.description",
+    "description": "Description for the 'Makey Makey' extension",
+    "defaultMessage": "Make anything into a key."
+  },
+  {
+    "id": "gui.extension.microbit.description",
+    "description": "Description for the 'micro:bit' extension",
+    "defaultMessage": "Connect your projects with the world."
+  },
+  {
+    "id": "gui.extension.microbit.connectingMessage",
+    "description": "Message to help people connect to their micro:bit.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.ev3.description",
+    "description": "Description for the 'LEGO MINDSTORMS EV3' extension",
+    "defaultMessage": "Build interactive robots and more."
+  },
+  {
+    "id": "gui.extension.ev3.connectingMessage",
+    "description": "Message to help people connect to their EV3. Must note the PIN should be 1234.",
+    "defaultMessage": "Connecting. Make sure the pin on your EV3 is set to 1234."
+  },
+  {
+    "id": "gui.extension.boost.description",
+    "description": "Description for the 'LEGO BOOST' extension",
+    "defaultMessage": "Bring robotic creations to life."
+  },
+  {
+    "id": "gui.extension.boost.connectingMessage",
+    "description": "Message to help people connect to their BOOST.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.wedo2.description",
+    "description": "Description for the 'LEGO WeDo 2.0' extension",
+    "defaultMessage": "Build with motors and sensors."
+  },
+  {
+    "id": "gui.extension.wedo2.connectingMessage",
+    "description": "Message to help people connect to their WeDo.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.gdxfor.description",
+    "description": "Description for the Vernier Go Direct Force and Acceleration sensor extension",
+    "defaultMessage": "Sense push, pull, motion, and spin."
+  },
+  {
+    "id": "gui.extension.gdxfor.connectingMessage",
+    "description": "Message to help people connect to their force and acceleration sensor.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "tw.extensionGallery.name",
+    "description": "Name of extensions.turbowarp.org in extension library",
+    "defaultMessage": "TurboWarp Extension Gallery"
+  },
+  {
+    "id": "tw.extensionGallery.description",
+    "description": "Description of extensions.turbowarp.org in extension library",
+    "defaultMessage": "We list many extensions here for convenience. You can find even more on extensions.turbowarp.org."
+  },
+  {
+    "id": "tw.twExtension.name",
+    "description": "Name of TW extension",
+    "defaultMessage": "TurboWarp Blocks"
+  },
+  {
+    "id": "tw.twExtension.description",
+    "description": "Description of TW extension",
+    "defaultMessage": "Weird new blocks."
+  }
+]

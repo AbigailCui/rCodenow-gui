@@ -1,0 +1,11 @@
+[
+  {
+    "id": "gui.unsupportedBrowser.label",
+    "defaultMessage": "Browser is not supported"
+  },
+  {
+    "id": "tw.browserModal.desc",
+    "description": "A message that appears in the browser not supported modal",
+    "defaultMessage": "Make sure you're using a recent version of Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari."
+  }
+]

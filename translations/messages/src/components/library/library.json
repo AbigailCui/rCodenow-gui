@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gui.library.filterPlaceholder",
+    "description": "Placeholder text for library search field",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "gui.library.allTag",
+    "description": "Label for library tag to revert to all items after filtering by tag.",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "gui.library.uploadButton",
+    "description": "Label for extension library button to upload an extension.",
+    "defaultMessage": "Upload"
+  },
+  {
+    "id": "gui.library.fromOnline",
+    "description": "Label for from extension store link in the extension library",
+    "defaultMessage": "From Online"
+  }
+]

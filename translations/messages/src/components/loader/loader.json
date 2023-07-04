@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gui.loader.headline",
+    "description": "Main loading message",
+    "defaultMessage": "Loading Project"
+  },
+  {
+    "id": "gui.loader.creating",
+    "description": "Main creating message",
+    "defaultMessage": "Creating Project"
+  },
+  {
+    "id": "tw.loader.generic",
+    "description": "Initial generic loading message",
+    "defaultMessage": "Loading project …"
+  },
+  {
+    "id": "tw.loader.data",
+    "description": "Appears when loading project data",
+    "defaultMessage": "Downloading project data …"
+  },
+  {
+    "id": "tw.loader.assets.known",
+    "description": "Appears when loading project assets and amount of assets is known",
+    "defaultMessage": "Downloading assets ({complete}/{total}) …"
+  },
+  {
+    "id": "tw.loader.assets.unknown",
+    "description": "Appears when loading project assets but amount of assets is unknown",
+    "defaultMessage": "Downloading assets …"
+  }
+]
